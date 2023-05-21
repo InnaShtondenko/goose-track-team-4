@@ -1,0 +1,1 @@
+// all styles are imported from '../RegisterForm/RegisterForm.styled'
